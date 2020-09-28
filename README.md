@@ -15,7 +15,7 @@ Accuracy = 89.6%
 ### Relu 
 Accuracy = 57.3%
 
-# Use an 80-20 train-test split to train/evaluate your model, and report the accuracy and F-score for
+## Use an 80-20 train-test split to train/evaluate your model, and report the accuracy and F-score for
 the test set. ( Results of 5-cross-fold validation)
 1. Accuracies: [89.38356164383562, 89.72602739726028, 91.78082191780823,
 88.6986301369863, 89.72602739726028]
