@@ -1,4 +1,4 @@
-# Experiment with different configurations of the number of hidden layers, the number of hidden neurons, activation functions, learning rates, and weight initializations (Gaussian, uniform, etc.).
+## Experiment with different configurations of the number of hidden layers, the number of hidden neurons, activation functions, learning rates, and weight initializations (Gaussian, uniform, etc.).
 * The error of the model did not change much from 3500 to 4000 epochs .
 * Weight initializations: Tried random zeroes , zeroes with Gaussian distribution.
 * Random and Gaussian gave better results, So used Gaussian
